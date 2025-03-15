@@ -2,7 +2,7 @@ import csv
 import socket
 import hashlib
 
-HOST = "0.0.0.0"  
+HOST = "127.0.0.1"  
 PORT = 65432      
 
 GET_MIDTERM_AVG_CMD = "GMA"
